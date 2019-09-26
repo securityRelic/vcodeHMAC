@@ -2,6 +2,7 @@ package vcodeHMAC
 
 import (
 	"bufio"
+	"errors"
 	"os"
 	"strings"
 )

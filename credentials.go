@@ -10,10 +10,12 @@ import (
 func getCredentials(fileString string) ([2]string, error) {
 	var credentials [2]string
 
+	//
 	// Modification by securityRelic@github
 	// Here's my quick hack for use in docker pipeline tool (e.g., bitbucket)
 	// and secure the secure.  If "fileString" is empty, look for OS environment
 	// variable else error.  Need to find a way to may this a bit cleaner!
+	//
 
 	if fileString == "" {
 

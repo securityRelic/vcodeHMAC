@@ -1,5 +1,11 @@
 Forked by securityRelic
 
+> securityRelic@github: Added a quick hack back in 2019 to leveraging an environment variables (vs. local storage)
+> and faciliate running in a targeted automated pipeline.  Found codebase and functionality solid, but utimately moved
+> in another direction.  Keeping this for historical purposes. 
+
+---
+
 # Veracode HMAC Authorization Package
 [![GoDoc](https://godoc.org/github.com/brian1917/vcodeHMAC?status.svg)](https://godoc.org/github.com/brian1917/vcodeHMAC)
 [![Go Report Card](https://goreportcard.com/badge/github.com/brian1917/vcodeHMAC)](https://goreportcard.com/report/github.com/brian1917/vcodeHMAC)

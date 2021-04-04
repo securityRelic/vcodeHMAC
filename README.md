@@ -1,8 +1,6 @@
 Forked by securityRelic
 
-> securityRelic@github: Added a quick hack back in 2019 to leveraging an environment variables (vs. local storage)
-> and faciliate running in a targeted automated pipeline.  Found codebase and functionality solid, but utimately moved
-> in another direction.  Keeping this for historical purposes. 
+> securityRelic@github: Added a quick hack back in 2019 to leveraging environment variables (vs. local storage) and faciliate running in a targeted automated pipeline. Found brian1917/vcodeHMAC codebase easy to work with and functionality provided solid, but utimately moved in another direction. Keeping this for historical purposes.
 
 ---
 
